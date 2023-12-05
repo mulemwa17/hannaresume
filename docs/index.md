@@ -41,7 +41,7 @@
 - Microsoft Power BI
 - Tableau
 - MSQL
-- Python language
+- Python 
 
 **Additional Skills:**
 - Performed Data Modeling, Wrangling, and Visualization.
