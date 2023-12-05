@@ -1,86 +1,54 @@
----
-layout: cv
-title: Brigham Young's Resume
----
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# EDUCATION
+- **Area of Interest:** Data Analysis and Research, Data Wrangling, Data mining, and Programming languages.
+- **Scholarship:** BYU-Idaho Academic Scholarship, EICAP Tuition Assistance Award, Hall Foundation Scholarship.
+  
+**Brigham Young University - Idaho**  
+*Rexburg, ID*  
+*Bachelor of Science | Business Analytics*  
+*September 2019 - September 2024*
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+# PROFESSIONAL EXPERIENCE
+- Coordinated a 4-6 hours schedule for 10 employees every 30 minutes to different tasks, resulting in a well-organized and smooth transition from one task to another.
+- Organized and produced daily reports, established a coordinated work structure aligned with company goals.
+- Conducted team training meetings of over 8-10 individuals to explain department policies and expectations.
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+**Brigham Young University - Idaho (David O. Mackay Library)**  
+*Rexburg, ID*  
+*Team Lead*  
+*August 2020 - Present*
+- Operated and managed weekly mentoring workshops for students, resulting in assisting students with academic resources needed.
+- Instructed weekly mentoring lecture sessions in classrooms to 20-40 students about Campus Resources.
 
-## Education
+**Brigham Young University-Idaho**  
+*Rexburg, ID*  
+*Student Mentor*  
+*January 2020 - September 2020*
 
-`2019-2024`
-__Brigham Young University_Idaho, Rexburg, ID
+# VOLUNTEER EXPERIENCE
+- Planned and executed daily goals toward the monthly client retention goal.
+- Planned, prepared, and taught more than 200 lessons to members and non-members.
+- Prepared and trained more than 18 missionaries every week to help promote values.
+- Connected with more than 80 people through strong interpersonal skills within the shortest possible time.
 
-- Full academic scholarship
+**The Church of Jesus Christ of Latter-day Saints**  
+*Salt Lake City, Utah*  
+*Full-time Volunteer Representative (Missionary)*  
+*September 2014 - March 2016*
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+# SKILLS
+- Microsoft Excel
+- Microsoft Word
+- Microsoft Power BI
+- Tableau
+- MSQL
+- Python language
 
-## Related Experience
+**Additional Skills:**
+- Performed Data Modeling, Wrangling, and Visualization.
+- Created info visuals showing data targets of leading Tech industries and Other Corporate Businesses on growing Profits, Sales, and Target audiences.
+- Used Power BI and Tableau to analyze complex data.
+- Conducted research on AI-Based_System in the Business Industry.
+- Performed research to show the positive impact of AI systems such as Azure machine learning and other AI systems contributing to the growth and progress of companies.
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
